@@ -1,0 +1,11 @@
+F:\Project\CSharp\WebApplication1\SignatureUtil\bin\Debug\netcoreapp2.0\SignatureUtil.deps.json
+F:\Project\CSharp\WebApplication1\SignatureUtil\bin\Debug\netcoreapp2.0\SignatureUtil.runtimeconfig.json
+F:\Project\CSharp\WebApplication1\SignatureUtil\bin\Debug\netcoreapp2.0\SignatureUtil.runtimeconfig.dev.json
+F:\Project\CSharp\WebApplication1\SignatureUtil\bin\Debug\netcoreapp2.0\SignatureUtil.dll
+F:\Project\CSharp\WebApplication1\SignatureUtil\bin\Debug\netcoreapp2.0\SignatureUtil.pdb
+F:\Project\CSharp\WebApplication1\SignatureUtil\obj\Debug\netcoreapp2.0\SignatureUtil.csproj.CoreCompileInputs.cache
+F:\Project\CSharp\WebApplication1\SignatureUtil\obj\Debug\netcoreapp2.0\SignatureUtil.AssemblyInfoInputs.cache
+F:\Project\CSharp\WebApplication1\SignatureUtil\obj\Debug\netcoreapp2.0\SignatureUtil.AssemblyInfo.cs
+F:\Project\CSharp\WebApplication1\SignatureUtil\obj\Debug\netcoreapp2.0\SignatureUtil.dll
+F:\Project\CSharp\WebApplication1\SignatureUtil\obj\Debug\netcoreapp2.0\SignatureUtil.pdb
+F:\Project\CSharp\WebApplication1\SignatureUtil\obj\Debug\netcoreapp2.0\SignatureUtil.csprojAssemblyReference.cache
